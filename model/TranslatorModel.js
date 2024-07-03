@@ -5,7 +5,7 @@ const translationSchema = new mongoose.Schema({
   inputText: String,
   translatedText: String,
   fromLang: String,
-  totLang: String, 
+  toLang: String, 
 });
 
 const Translation = mongoose.model("Translation", translationSchema);
