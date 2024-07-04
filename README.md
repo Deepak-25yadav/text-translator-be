@@ -100,3 +100,10 @@ Once the server is running, you can use the provided API endpoints to interact w
 ![postman-punt-partner-1](https://github.com/Deepak-25yadav/text-translator-be/assets/112754831/792db5dc-f418-4019-8f21-18ec3ec83817)
 
 ![postman-punt-partner-2](https://github.com/Deepak-25yadav/text-translator-be/assets/112754831/673c7946-99e8-4716-9d07-9a006cde7da1)
+
+
+![mdb-1](https://github.com/Deepak-25yadav/text-translator-be/assets/112754831/5bec3620-9c57-45aa-9057-89654193df87)
+
+![mdb-2](https://github.com/Deepak-25yadav/text-translator-be/assets/112754831/a8d0b623-6a03-4cf3-a01b-258e2c6f8239)
+
+
