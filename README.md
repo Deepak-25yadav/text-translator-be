@@ -1,4 +1,6 @@
 # text-translator-be
+
+## Project Presentation Video Link: https://www.loom.com/share/55ea11acb6354d6093eb84dc3ec61bb5
 This is the text-translator backend repo
 **Backend API Link:** https://text-translator-be.onrender.com/translator/
 
