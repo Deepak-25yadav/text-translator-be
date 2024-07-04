@@ -1,4 +1,5 @@
-# text-translator-be
+# Text-Translator-be
+## Deployed Frontend Link: https://punt-partner-text-translator-deepak-y.netlify.app/
 
 ## Project Presentation Video Link: https://www.loom.com/share/55ea11acb6354d6093eb84dc3ec61bb5
 This is the text-translator backend repo
